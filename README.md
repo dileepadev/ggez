@@ -7,6 +7,10 @@
 ![GitHub](https://img.shields.io/github/license/dileepabandara/ggez?color=yellow)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dileepabandara/ggez?color=brightgreen&label=commits)
 
+## ⚠️ SPECIAL NOTICE
+
+This project is developing under the initial alpha release.
+
 ## ✨ About
 
 A social network for gamers.
