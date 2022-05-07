@@ -1,4 +1,4 @@
-# 🎮 GGEZ
+# 🎮 GGEZ Network
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dileepabandara/ggez?color=red&label=repository%20size)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dileepabandara/ggez?color=red)
@@ -7,13 +7,116 @@
 ![GitHub](https://img.shields.io/github/license/dileepabandara/ggez?color=yellow)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dileepabandara/ggez?color=brightgreen&label=commits)
 
+![GGEZCover](https://dileepabandara.github.io/public-images/projects/ggez/ggez-cover-rounded.png)
+
 ## ⚠️ SPECIAL NOTICE
 
 This project is developing under the initial alpha release.
 
-## ✨ About
+## ℹ️ About
 
-A social network for gamers.
+It has happened so many times that gamers have been waiting for a social network related mobile app with a web app that fulfills their favorite gaming updates all in one place, which allows them to interact with communities and fulfill their gaming fantasies. So here GGEZ Network present it to the gaming community as a social network solution to those problems. Using this system, gamers can get information about gaming world updates, connect with gaming communities, buy their favorite gaming merchandise, and earn valuable crypto tokens.
+
+## 🖼️ More Screenshots
+
+Figma Design - [Click to view](https://www.figma.com/file/w38wzdUpm9T3Mud3lCCp2i/Mobile-App-UI?node-id=0%3A1)
+
+## 🎬 Release Status
+
+Version - Alpha Release 1.0.0+1  
+Initial release date - 14/03/2022
+
+## 💡 Deployment
+
+Deployment is not currently in use.
+
+## 💻 Built with
+
+- Flutter
+- Dart
+- Android Studio
+- Firebase
+- Solidity (Testing)
+- Etherium (Testing)
+
+## 📌 Prerequisites
+
+Before you get started, follow these requirements
+
+- Dart SDK >=2.16.1 <3.0.0
+- Flutter SDK >=2.0.0
+- Android Gradle Plugin Version = 7.0.4
+- Gradle Version = 7.0.2
+- PayHere account - [Example App](https://github.com/dileepabandara/flutter_with_payhere)
+
+## 🍃 How to Setup
+
+- Download or clone the repository
+- Move the project to the selected directory
+- Open it with a code editor (Android Studio, Visual Studio Code)
+- Run flutter clean and pub get commands
+- Do not update / upgrade gradle and other versions until the app is up and running with built versions
+- Create new dart file (payhere_credentials.dart) to save the merchantSecret and merchantId  
+    
+  <b><i>payhere_credentials.dart</i></b>
+
+  ```
+  class PayHereAccountCredentials {
+      final String merchantId = "Paste YOUR MERCHANT ID";
+      final String merchantSecret = "Paste YOUR MERCHANT SECRET";
+  }
+  ```
+  
+  <b>PayHere Sandbox & Testing Card numbers</b>
+
+  | Card Icon                                                      | Card Name  | Card Number      |
+  | :------------------------------------------------------------- | :--------- | :--------------- |
+  | ![VISA](https://img.icons8.com/color/40/000000/visa.png)       | Visa       | 4916217501611292 |
+  | ![VISA](https://img.icons8.com/color/40/000000/mastercard.png) | MasterCard | 5307732125531191 |
+  | ![VISA](https://img.icons8.com/color/40/000000/amex.png)       | AMEX       | 346781005510225  |
+
+## 🚀 How to Run
+
+- Run flutter clean and pub get commands
+- Launch Device
+- Run on the device
+
+## 📸 Icons and Images
+
+- Flutter Logo - https://logowik.com/flutter-vector-logo-5285.html
+
+## 💎 Dependencies
+
+- [Flutter](https://flutter.dev)
+- [firebase_auth: ^3.3.7](https://pub.dev/packages/firebase_auth)
+- [firebase_core: ^1.12.0](https://pub.dev/packages/firebase_core)
+- [cloud_firestore: ^3.1.8](https://pub.dev/packages/cloud_firestore)
+- [firebase_analytics: ^9.1.0](https://pub.dev/packages/firebase_analytics)
+- [firebase_messaging: ^11.2.6](https://pub.dev/packages/firebase_messaging)
+- [firebase_crashlytics: ^2.5.1](https://pub.dev/packages/firebase_crashlytics)
+- [intl: ^0.17.0](https://pub.dev/packages/intl)
+- [flutter_local_notifications: ^9.3.2](https://pub.dev/packages/flutter_local_notifications)
+- [payhere_mobilesdk_flutter: ^2.0.0](https://pub.dev/packages/payhere_mobilesdk_flutter)
+- [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
+- [crypto: ^3.0.1](https://pub.dev/packages/crypto)
+
+## 🎯 TODO
+
+- [x] Create basic process
+- [x] Create models for components
+- [x] setState for state management 
+- [x] Payment method with PayHere
+- [ ] Add alternative payment methods
+- [ ] Upgrate to propper state management
+- [ ] Apply model components for remaining usage
+- [ ] Connect crypto wallet to app
+- [ ] Optimize GTN token
+- [ ] Clean code
+- [ ] Add social login/signup/signin
+
+## 👑 Contributing
+
+If you want to contribute to this project and make it better, your help is very welcome.
 
 ## ❤️ Thanks
 
