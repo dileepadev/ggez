@@ -7,7 +7,7 @@
 ![GitHub](https://img.shields.io/github/license/dileepabandara/ggez?color=yellow)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dileepabandara/ggez?color=brightgreen&label=commits)
 
-![GGEZCover](https://dileepabandara.github.io/public-images/projects/ggez/ggez-cover-rounded.png)
+![GGEZCover](https://dileepabandara.github.io/public-images/projects/ggez/ggez-cover-rounded-qr.png)
 
 ## ⚠️ SPECIAL NOTICE
 
