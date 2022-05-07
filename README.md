@@ -83,7 +83,7 @@ Before you get started, follow these requirements
 
 ## 📸 Icons and Images
 
-- Flutter Logo - https://logowik.com/flutter-vector-logo-5285.html
+- Icons8 - https://icons8.com/icons
 
 ## 💎 Dependencies
 
