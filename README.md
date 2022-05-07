@@ -106,6 +106,7 @@ Before you get started, follow these requirements
 - [x] Create models for components
 - [x] setState for state management 
 - [x] Payment method with PayHere
+- [x] Cloud messaging (Push notifications)
 - [ ] Add alternative payment methods
 - [ ] Upgrate to propper state management
 - [ ] Apply model components for remaining usage
