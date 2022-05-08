@@ -11,7 +11,7 @@
 
 ## ⚠️ SPECIAL NOTICE
 
-This project is developing under the initial alpha release.
+This project is being developed under the initial alpha release.
 
 ## ℹ️ About
 
