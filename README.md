@@ -11,7 +11,8 @@
 
 ## ⚠️ SPECIAL NOTICE
 
-This project is being developed under the initial alpha release.
+- This project is being developed under the initial alpha release.
+- This project has been developed as an open source for educational purposes.
 
 ## ℹ️ About
 
@@ -19,7 +20,7 @@ It has happened so many times that gamers have been waiting for a social network
 
 ## 🖼️ More Screenshots
 
-Figma Design - [Click to view](https://www.figma.com/file/w38wzdUpm9T3Mud3lCCp2i/Mobile-App-UI?node-id=0%3A1)
+Figma Design - [Click to view](https://www.figma.com/file/w38wzdUpm9T3Mud3lCCp2i/GGEZ---Mobile-App-UI)
 
 ## 🎬 Release Status
 
