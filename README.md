@@ -127,7 +127,7 @@ Thanks to everyone who supported
 ## 👨‍💻 Developed By
 
 Dileepa Bandara  
-©dileepabandara.dev
+©dileepabandara.dev  
 <https://dileepabandara.github.io>
 
 ## 💬 Contact
