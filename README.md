@@ -1,4 +1,4 @@
-# 🎮 GGEZ Network
+# 🎮 GGEZ Network (Dev Branch)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dileepabandara/ggez?color=red&label=repository%20size)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dileepabandara/ggez?color=red)
@@ -11,25 +11,12 @@
 
 ## ⚠️ SPECIAL NOTICE
 
-- This project is being developed under the initial alpha release.
-- This project has been developed as an open source for educational purposes.
-
-## ℹ️ About
-
-It has happened so many times that gamers have been waiting for a social network related mobile app with a web app that fulfills their favorite gaming updates all in one place, which allows them to interact with communities and fulfill their gaming fantasies. So here GGEZ Network present it to the gaming community as a social network solution to those problems. Using this system, gamers can get information about gaming world updates, connect with gaming communities, buy their favorite gaming merchandise, and earn valuable crypto tokens.
-
-## 🖼️ More Screenshots
-
-Figma Design - [Click to view](https://www.figma.com/file/w38wzdUpm9T3Mud3lCCp2i/GGEZ---Mobile-App-UI)
+Please use the dev branch to develop and test your ideas.
 
 ## 🎬 Release Status
 
 Version - Alpha Release 1.0.0+1  
 Initial release date - 14/03/2022
-
-## 💡 Deployment
-
-Deployment is not currently in use.
 
 ## 💻 Built with
 
@@ -82,10 +69,6 @@ Before you get started, follow these requirements
 - Launch Device
 - Run on the device
 
-## 📸 Icons and Images
-
-- Icons8 - https://icons8.com/icons
-
 ## 💎 Dependencies
 
 - [Flutter](https://flutter.dev)
@@ -119,16 +102,6 @@ Before you get started, follow these requirements
 ## 👑 Contributing
 
 If you want to contribute to this project and make it better, your help is very welcome.
-
-## ❤️ Thanks
-
-Thanks to everyone who supported
-
-## 👨‍💻 Developed By
-
-Dileepa Bandara  
-©dileepabandara.dev
-<https://dileepabandara.github.io>
 
 ## 💬 Contact
 
