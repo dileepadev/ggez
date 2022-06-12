@@ -118,7 +118,7 @@ Before you get started, follow these requirements
 
 ## 👑 Contributing
 
-If you want to contribute to this project and make it better, your help is very welcome.
+If you want to contribute to this project and make it better, your help is very welcome. Just fork the repository and use the dev branch.
 
 ## ❤️ Thanks
 
