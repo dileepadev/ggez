@@ -1,4 +1,4 @@
-# 🎮 GGEZ Network (BRANCH: dev)
+# 🎮 GGEZ Network (BRANCH: main)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dileepabandara/ggez?color=red&label=repository%20size)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dileepabandara/ggez?color=red)
