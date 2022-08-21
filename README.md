@@ -103,6 +103,10 @@ Before you get started, follow these requirements
 
 If you want to contribute to this project and make it better, your help is very welcome. Just fork the repository and use the dev branch.
 
+## 🖼️ Project Gallery
+
+Project screenshots and pictures - [Click here to view](https://www.figma.com/file/w38wzdUpm9T3Mud3lCCp2i/GGEZ---Mobile-App-UI?node-id=0%3A1)
+
 ## ❤️ Thanks
 
 Thanks to everyone who supported
